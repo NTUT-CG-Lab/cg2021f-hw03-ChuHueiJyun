@@ -1,0 +1,61 @@
+{
+    "modellist": [
+        {
+            "location": "models/mmd/kizunaai/kizunaai.pmx",
+            "line_locationx_1": 0.49513016227463413,
+            "line_locationy_1": 8.01214610646602,
+            "line_locationx_2": 0.25607151182258453,
+            "line_locationy_2": 8.238332368047574,
+            "line_locationx_3": 0.4730632099252141,
+            "line_locationy_3": 8.403834510668224,
+            "line_locationx_4": 0.7259137055956512,
+            "line_locationy_4": 8.207070852219228,
+            "Right X negative angle": -8.3574294928857,
+            "Left X negative angle": -8.3574294928857,
+            "Right X positive angle": 11.459155902616526,
+            "Left X positive angle": 11.459155902616526,
+            "Right Y negative angle": -8.098952292075001,
+            "Left Y negative angle": -12.536144239328499,
+            "Right Y positive angle": 12.536144239328499,
+            "Left Y positive angle": 8.098952292075001
+        },
+        {
+            "location": "models/mmd/るいのれ式物述有栖_配布用フォルダ/物述有栖.pmx",
+            "line_locationx_1": 0.5500982430678354,
+            "line_locationy_1": 4.3216170702541445,
+            "line_locationx_2": 0.31191064241367555,
+            "line_locationy_2": 4.515779474578863,
+            "line_locationx_3": 0.49252683248318063,
+            "line_locationy_3": 4.740420860977809,
+            "line_locationx_4": 0.7803838854064543,
+            "line_locationy_4": 4.576737438727321,
+            "Right X negative angle": -14.647041379284182,
+            "Left X negative angle": -14.647041379284182,
+            "Right X positive angle": 16.628699918834414,
+            "Left X positive angle": 16.628699918834414,
+            "Right Y negative angle": -9.994451764687538,
+            "Left Y negative angle": -21.281289533431114,
+            "Right Y positive angle": 21.281289533431114,
+            "Left Y positive angle": 9.994451764687538
+        },
+        {
+            "location": "models/mmd/『天宮こころ(Kokoro Amamiya)』/『天宮こころ(Kokoro Amamiya)』.pmx",
+            "line_locationx_1": 0.5311617299404314,
+            "line_locationy_1": 5.340501209380981,
+            "line_locationx_2": 0.2927652918165039,
+            "line_locationy_2": 5.485169133370714,
+            "line_locationx_3": 0.528105365349099,
+            "line_locationy_3": 5.578897647504908,
+            "line_locationx_4": 0.7552951333048077,
+            "line_locationy_4": 5.506563685510041,
+            "Right X negative angle": -18.17956312369978,
+            "Left X negative angle": -18.17956312369978,
+            "Right X positive angle": 13.871609776851477,
+            "Left X positive angle": 13.871609776851477,
+            "Right Y negative angle": -10.899121967526357,
+            "Left Y negative angle": -15.939427383338796,
+            "Right Y positive angle": 15.939427383338796,
+            "Left Y positive angle": 10.899121967526357
+        }
+    ]
+}
